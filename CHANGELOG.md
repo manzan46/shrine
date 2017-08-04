@@ -1,4 +1,5 @@
 ## HEAD
+* Adding [rubocop-github](https://github.com/github/rubocop-github) gem
 
 * Don't raise error in `file` and `filemagic` MIME type analyzer on empty IO (@ypresto)
 
